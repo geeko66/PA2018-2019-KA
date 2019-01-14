@@ -8,6 +8,6 @@ ainsi que le code de l'algorithme C51 venant du site :
 
   - https://github.com/flyyufelix/C51-DDQN-Keras.
 
-Ce dépôt contient le code lancé avec certaines configurations de paramètre décrite dans le documetn de projet.
+Ce dépôt contient le code lancé avec certaines configurations de paramètre décrite dans le document de projet.
 
 Karim Azzab, le 10 janvier 2019
