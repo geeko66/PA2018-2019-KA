@@ -15,7 +15,7 @@ Ce dépôt contient le code lancé avec certaines configurations de paramètre d
 
 ## Résultats
 
-Ce dossier contient les fichiers **.txt** où nous avons de statistiques et des fichiers **.pickle** qui devaient sauvegarder les mêmes résultas mais cela semble avoir échoué pour une reaison inconnue.
+Le dossier **Results** contient les fichiers **.txt** où nous avons de statistiques et des fichiers **.pickle** qui devaient sauvegarder les mêmes résultas mais cela semble avoir échoué pour une reaison inconnue.
 
 Le dossier **models** contient les modèles de paramètres obtenus par la librairie **tensorflow** ainsi que le **tensorboard** où nous aovns des données graphiques qui est l'erreur (loss) dans notre cas.
 
